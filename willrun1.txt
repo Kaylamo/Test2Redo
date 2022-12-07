@@ -1,0 +1,6 @@
+ import json
+
+def foo(): pass
+
+def bar(n):
+    print(n)
